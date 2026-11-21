@@ -1,0 +1,28 @@
+# --- Your private inputs: never commit these -------------------------------
+input/*
+!input/README.md
+templates/*
+!templates/README.md
+
+# --- Generated output -------------------------------------------------------
+output/
+
+# --- Device, sample and kit files anywhere in the tree ----------------------
+# (Roland backups, audio, Battery kits).  Examples are text reports only.
+*.BIN
+*.bin
+*.wav
+*.WAV
+*.aif
+*.aiff
+*.nbkt
+*.kt3
+
+# --- Python / OS / editors --------------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,11 @@
+kit_num,kit_name,roland_pad,layer,layer_mode,battery_cell,battery_row,battery_column,midi_note,key_written,note_remark,volume_level,volume_float,tune_semitones,tune_ratio,sample,sample_frames,verification
+1,001 Demo Rock,PAD 1,A,0,0,1,1,36,36,,100,1,+0.00,1,A 1-KIK 001.wav,4410,PASS
+1,001 Demo Rock,PAD 2,A,0,1,1,2,38,38,,90,0.899999976,+0.00,1,A 2-SNR 004.wav,4410,PASS
+1,001 Demo Rock,PAD 3,A,1,2,1,3,42,42,,70,0.699999988,+0.00,1,A 3-HH 002.wav,4410,PASS
+1,001 Demo Rock,PAD 3,B,1,18,2,3,46,46,,60,0.600000024,+0.00,1,B 3-HH 003.wav,4410,PASS
+1,001 Demo Rock,PAD 4,A,0,3,1,4,45,45,,85,0.850000024,-2.00,0.890898705,A 4-TOM 005.wav,4410,PASS
+1,001 Demo Rock,PAD 5,A,0,4,1,5,OFF,120,note OFF on SPD-30 - key 120 assigned,75,0.75,+0.40,1.02337384,,,PASS
+1,001 Demo Rock,EXT 1,A,0,8,1,9,33,33,,93,0.930000007,+0.00,1,A EXT1-KIK 022.wav,4410,PASS
+2,002 Demo Percussion,PAD 1,A,1,0,1,1,60,60,,100,1,-7.00,0.66741991,A 1-PC1 011.wav,4410,PASS
+2,002 Demo Percussion,PAD 1,B,1,16,2,1,61,61,,91,0.910000026,-7.00,0.66741991,B 1-PC1 022.wav,4410,PASS
+2,002 Demo Percussion,PAD 2,A,0,1,1,2,OFF,120,note OFF on SPD-30 - key 120 assigned,9,0.0900000036,+0.00,1,A 2-PC1 118.wav,4410,PASS
